@@ -24,10 +24,11 @@ The **Resume Ranking System** is an AI-driven tool designed to simplify and opti
 
 ## 📷 Screenshots
 ### Upload Resumes & Enter Job Description
-![Upload Resume](./screenshots/upload_resume.png)
+![Upload Resume](./screenshots/upload.png)
+![Upload Resume](./screenshots/resumeupload.png)
 
 ### Resume Ranking Results
-![Resume Ranking](./screenshots/resume_ranking.png)
+![Resume Ranking](./screenshots/screening.png)
 
 ## 🏗️ Installation & Setup
 ### Clone the Repository
@@ -59,9 +60,6 @@ streamlit run app.py
 
 ## 💡 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Connect With Me
 - **GitHub:** [rutikakengal](https://github.com/rutikakengal)
